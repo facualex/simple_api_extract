@@ -1,0 +1,10 @@
+# configuration
+python-dotenv==1.2.2
+
+# pipeline
+pandas==3.0.3
+pyarrow==24.0.0
+requests==2.32.3
+
+# testing
+pytest==9.0.3
